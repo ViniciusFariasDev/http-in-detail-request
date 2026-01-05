@@ -16,7 +16,7 @@ This repository documents my hands-on learning related to **HTTP fundamentals**,
 
 A screenshot is included to demonstrate a successful POST request to a login endpoint.
 
-![HTTP POST Login](screenshots/http-post-login.jpg)
+![HTTP POST Login](screenshots/http-post-login.png)
 
 ## Learning Platform
 
